@@ -1,0 +1,5 @@
+classifier/
+neg.lst
+pos.lst
+pos_samples.vec
+
